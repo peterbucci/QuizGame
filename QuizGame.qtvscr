@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-10-04 18:01:39",
+  "files": {
+    "C:\\Users\\Studio\\source\\repos\\QuizGame\\QuizGame.vcxproj": {
+      "before": "7Vnbbts4EO3zAvsHfTCELJw8xPIlabobWUUrp4ZR59I4l5cCAS3TNreUKJBU4nS737u/sUOJoixfEhvZTbrZ5CGAyZnh8HB4Zob66/WrV867SUBL15gLwsKmVatUrRIOfTYg4ahpxXK4/dZ65/78k3PC2e/Yl6UWHqKYyjPER1iKpvUhJnRglcBKCL/GUka/2bbwxzhAohIQnzPBhrLis8Ae4GtMWYS5HYi+UrPr1WrDAuulktOROGhzFkelLupj2rT0gh4Lh2QUcyTBQZEKg/ii2VIn9Gk8wE2rhfvx6PslCRv1TAN0CqbcRMaxi4PKFfXnnFAkh4wHbmLEsc3vVAIGUjwWqd/j3CmmGAl8j3ta6ikcTNGbvNl5KHZg4l9B7i7XVsZtTecc20RoGrAQABDK8rYQtG3K+ojmYXrh6Ti5SG+YW9urVB17blhH1Sd8e8P4IA06penY2ZCW0ObaMRm4f9T8nTqqNd5uI1zf297Z20Xbv+7u+tvVPbTb8Ov9nTc+/tOEaqKjzZwyJo9QgEWEfOx+jsm3Nvxy7OK4FoYrMGA3Ir3y2UUwG6qqDd0pUnRdLTu1ot5QMqoEE3dzYDU5BBHjsqRlm9bG5oWnGegEyfHWl0NDNF4UVTRHVSI4ImGV7EUHBhd3QBSnNK3yxmbhGm9939jMtrlVbjbLU3RStjJ+KqhkN6XIMWe3EXbfRxElfkJfM5c5mdbgnAucrNIlfY44wcKVPIYDmR/P0NQEdcYYFVi617WdRn7ZslEt7I0RR77EvAeS5yEBfgfbhdGl2APo+XGU1oGtQHSPB9wQLuA/htzlmFEMEIw4Co4jSQLyLTlKfTxLp58UeEPgjwf684lWyAuPB9tzidXOegRdJOZUuZBHDyYSh6okBcKSUIrqjApJOFkokZ1ODQXlHrAdHqSUvJpGxnG9MYai1lqL5QrJIfEJktg8HkDkXGXXFuGz6Woq21RiEMvy1hTX4gkRUmxCplrbTnnLpKwu8xGFfNRCEmUJzqTHlaB9CFAz6eAFKtPWLCk4EiZ6gWk5TFlEPT+gsntW4DV19Q+R6qjNpVU9CVS7JExK2VR6ijbWq2yzUPOox4KIUKwHgM8uEQ+Bhruqg3eT/1BsFgbTggdEe62uN8b+V10hmZ9G4IRj4H8fC8F47rtwLztHjfr+Vevgw3l7/8o7Puoddw/2f9lcIr+lOoXFlsxSqkaHJh6FPj6Ekle7NDuqazV7dt9Ol4Rfcwx6cb93KwBwFwwIKAsdOx8yS7ZxiOGxIq3mO+nyqs3Qay+dzpwwa6YNZw7QdM574Kln9yZ52yjnvcuDzv1jHPpqo0l0qF1AvOhNL5wyiHVCyQkkez8Ty3qfBRNGyYRVWnian0ZgWWykUXb0H4+ygxD1KfaOD1vvzz4yql7rNNaLZgwouoPBp3iIOTzzmTZzwYRRWhqyKfRLp1MDjv0YET3V8Twxiz0ZfwH1dlE4itEI9yQKBwjekYQc+PD8AHQkJBzE7LQ54tmZKy9Rre3NK8GUUUtjDZg1piaSimNZDPzvqLVQkszufr2EmtHiD06sL5T641FqXjNAyJkozL+TfJbq6feC4JsK8ERWVd4rSyaTu2UF97/0iYwloeJ+ywXplWwrrysrS0K5JjmjFDrre3epfFHWp3RWXkeVmHT1JVLxla0np7SS9BnmAQkRXf1s1a7ntFZaS62hPh1Mb3vuU8n8a8idz/cy/baYhZh+TCm0QuZ9SH8FWPzYYz59uH8D",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-10-04 18:01:39</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\Studio\source\repos\QuizGame\QuizGame.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--TTXlG3jkJbabIQ5aZjg8TnpXEhT4PDQU0LyCqi/M+0c=-->

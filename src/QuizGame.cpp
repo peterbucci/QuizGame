@@ -1,9 +1,11 @@
+// Include Qt headers using #include
+#include <QApplication>
+import <vector>;
+
 import QuizModel;
-import TerminalQuizView;
+import QtQuizView;
 import QuizController;
 import QuizModule;
-
-import <vector>;
 
 /**
  * @brief Creates a vector of quizzes with questions and answers.
@@ -45,12 +47,13 @@ std::vector<Quiz> createQuizzes() {
     return quizzes;
 }
 
-int main() {
+int main(int argc, char* argv[]) {
+    QApplication app(argc, argv);
+
     std::vector<Quiz> quizzes = createQuizzes();
 
-
     QuizModel model(quizzes);
-    TerminalQuizView view;
+    QtQuizView view;
     QuizController controller(model, view);
 
     controller.run();

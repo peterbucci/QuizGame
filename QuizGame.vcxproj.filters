@@ -35,7 +35,6 @@
     <ClCompile Include="src\TerminalQuizView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-
     <!-- Module Interface Files -->
     <ClCompile Include="src\bitutils.ixx">
       <Filter>Module Interface Files</Filter>
@@ -55,5 +54,13 @@
     <ClCompile Include="src\Quiz.ixx">
       <Filter>Module Interface Files</Filter>
     </ClCompile>
+    <ClCompile Include="QtQuizView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="QtQuizView.ixx">
+      <Filter>Module Interface Files</Filter>
+    </QtMoc>
   </ItemGroup>
 </Project>
