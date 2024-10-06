@@ -54,12 +54,12 @@
     <ClCompile Include="src\Quiz.ixx">
       <Filter>Module Interface Files</Filter>
     </ClCompile>
-    <ClCompile Include="QtQuizView.cpp">
+    <ClCompile Include="src\QtQuizView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="QtQuizView.ixx">
+    <QtMoc Include="src\QtQuizView.ixx">
       <Filter>Module Interface Files</Filter>
     </QtMoc>
   </ItemGroup>
